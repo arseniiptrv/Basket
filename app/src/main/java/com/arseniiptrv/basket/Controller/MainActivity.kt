@@ -1,7 +1,8 @@
-package com.arseniiptrv.basket
+package com.arseniiptrv.basket.Controller
 
 import android.content.Intent
 import android.os.Bundle
+import com.arseniiptrv.basket.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : BaseActivity() {
